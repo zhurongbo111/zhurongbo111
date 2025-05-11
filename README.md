@@ -20,7 +20,7 @@
 
 ### 前端开发
 - **HTML**: 熟悉语义化标签和响应式设计。
-- **CSS**: 能够使用 Flexbox 和 Grid 构建现代化的用户界面。
+- **CSS**: 能够使用 Flexbox 构建现代化的用户界面。
 - **JavaScript (JS)**: 掌握原生 JS 开发，熟悉 DOM 操作和异步编程。
 - **TypeScript (TS)**: 使用 TS 提升代码的可维护性和类型安全性。
 - **Vue.js**: 熟悉 Vue 2 和 Vue 3，能够快速构建单页应用（SPA）。
